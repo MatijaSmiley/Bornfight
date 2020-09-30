@@ -1,0 +1,6 @@
+framework module Pods_Bornfight_BornfightUITests {
+  umbrella header "Pods-Bornfight-BornfightUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
